@@ -1,0 +1,139 @@
+### **Texto da Landing Page - Manutenção Fácil**
+
+---
+
+#### **1. Seção: Hero (Banner Principal)**  
+**Objetivo:** Capturar atenção e comunicar a principal proposta de valor rapidamente.
+
+**Título Principal:**  
+**"Transforme a gestão de manutenção do seu condomínio em algo simples e eficiente!"**
+
+**Subtítulo:**  
+**"Com o Manutenção Fácil, você gerencia tarefas, organiza demandas e recebe lembretes automáticos de forma prática. A solução ideal para síndicos modernos!"**
+
+**Call-to-Action (CTA):**  
+**"Comece agora gratuitamente e simplifique sua vida!"**  
+Botão: **"Quero experimentar grátis!"**
+
+---
+
+#### **2. Seção: Sobre o Produto**  
+**Objetivo:** Explicar rapidamente como o produto funciona e quais os benefícios.
+
+**Título:**  
+**"Uma solução completa para a manutenção predial do seu condomínio"**
+
+**Texto:**  
+"O Manutenção Fácil é um sistema desenvolvido para atender as necessidades de síndicos e administradores de condomínios. Nossa plataforma organiza todas as demandas de manutenção, automatiza lembretes e oferece relatórios detalhados, garantindo mais organização e economia de tempo."
+
+**Benefícios em destaque:**  
+- **Organização Simplificada:** Centralize todas as tarefas em um painel intuitivo.  
+- **Notificações Automáticas:** Receba lembretes para não perder nenhuma data importante.  
+- **Controle em Tempo Real:** Acompanhe o status de cada tarefa e tome decisões rapidamente.
+
+---
+
+#### **3. Seção: Funcionalidades**  
+**Objetivo:** Mostrar de forma prática o que o sistema oferece.
+
+**Título:**  
+**"Descubra tudo o que o Manutenção Fácil pode fazer por você"**
+
+**Texto (Bullets):**  
+- **Gerenciamento de Tarefas:** Registre e acompanhe todas as manutenções do condomínio.  
+- **Alertas Personalizáveis:** Defina notificações por e-mail ou WhatsApp.  
+- **Relatórios Detalhados:** Visualize o histórico de manutenção e identifique melhorias necessárias.  
+- **Acessibilidade Total:** Use de qualquer dispositivo, sem complicações.  
+- **Integração Simples:** Cadastre prestadores de serviços e organize contratos.
+
+---
+
+#### **4. Seção: Planos e Preços**  
+**Objetivo:** Apresentar as opções de assinatura de forma clara e atrativa.
+
+**Título:**  
+**"Escolha o plano que melhor atende ao seu condomínio"**
+
+**Texto:**  
+"Com preços acessíveis e funcionalidades indispensáveis, o Manutenção Fácil é a escolha perfeita para simplificar sua gestão."
+
+**Planos:**  
+- **Básico - R$150/mês**  
+  Inclui: Gerenciamento de tarefas, alertas automáticos, e suporte padrão.  
+  **CTA:** "Assine já!"
+
+- **Premium - R$250/mês**  
+  Inclui: Tudo no Básico + Relatórios avançados, integração com WhatsApp, e suporte prioritário.  
+  **CTA:** "Quero o Premium!"
+
+---
+
+#### **5. Seção: Depoimentos**  
+**Objetivo:** Construir confiança e credibilidade.
+
+**Título:**  
+**"Veja o que nossos clientes dizem"**
+
+**Texto:**  
+"Síndicos de todo o Brasil estão economizando tempo e otimizando a gestão com o Manutenção Fácil."
+
+**Depoimentos curtos:**  
+- "Desde que comecei a usar o Manutenção Fácil, minha rotina como síndico ficou muito mais organizada. Recomendo!" - **João Silva, São Paulo**  
+- "Os alertas automáticos são um diferencial incrível! Nunca mais perdi prazos importantes." - **Maria Fernanda, Rio de Janeiro**  
+- "Ótima relação custo-benefício. O suporte é excelente e a plataforma é muito fácil de usar." - **Carlos Mendes, Belo Horizonte**
+
+---
+
+#### **6. Seção: Perguntas Frequentes (FAQ)**  
+**Objetivo:** Antecipar e resolver dúvidas comuns.
+
+**Título:**  
+**"Perguntas frequentes sobre o Manutenção Fácil"**
+
+**Exemplo de Perguntas:**  
+- **Como funciona o período de teste gratuito?**  
+  "Você tem 14 dias para explorar todas as funcionalidades sem compromisso."  
+- **É necessário instalar algum software?**  
+  "Não! O Manutenção Fácil é 100% online e acessível de qualquer dispositivo."  
+- **Posso cancelar a assinatura a qualquer momento?**  
+  "Sim! Não há fidelidade. Cancele quando quiser."
+
+---
+
+#### **7. Seção: Call-to-Action Final**  
+**Objetivo:** Reforçar o convite para conversão.
+
+**Título:**  
+**"Não perca mais tempo com a desorganização!"**
+
+**Texto:**  
+"Comece hoje a simplificar a gestão do seu condomínio com o Manutenção Fácil. Teste gratuitamente e veja a diferença."
+
+**CTA:**  
+Botão: **"Experimente grátis agora!"**
+
+---
+
+#### **8. Seção: Rodapé**  
+**Objetivo:** Informações legais e de contato.
+
+**Texto:**  
+- **"© 2024 Manutenção Fácil. Todos os direitos reservados."**  
+- Links: **"Política de Privacidade" | "Termos de Uso"**  
+- **"Precisa de ajuda? Entre em contato conosco: contato@manutencaofacil.com.br"**  
+- Redes sociais: Links para Facebook, Instagram e LinkedIn.
+
+---
+
+### **Resumo das Sessões**
+
+1. **Header (Cabeçalho):** Logo, menu de navegação, botão de ação.  
+2. **Hero:** Título, subtítulo, e CTA principal.  
+3. **Sobre o Produto:** Introdução ao sistema e seus benefícios.  
+4. **Funcionalidades:** Destaque das principais ferramentas.  
+5. **Planos:** Opções de assinatura com descrição e CTA.  
+6. **Depoimentos:** Feedback de clientes.  
+7. **FAQ:** Perguntas frequentes.  
+8. **Footer (Rodapé):** Informações legais e de contato.
+
+Se precisar de ajuda com o código ou design de alguma seção, é só pedir!
