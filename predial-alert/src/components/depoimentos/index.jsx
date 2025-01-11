@@ -27,15 +27,15 @@ export default Testimonials;
 
 const TestimonialsSection = styled.section`
   padding: 4rem 2rem;
-  background-color: var(--white);
+  background-color: var(--DeepCharcoal);
   text-align: center;
-  color: var(--DeepCharcoal);
+  color: var(--white);
 `;
 
 const Heading = styled.h2`
   font-size: 2.5rem;
   margin-bottom: 2rem;
-  color: var(--DeepCharcoal);
+  color: var(--white);
 
   @media (max-width: 768px) {
     font-size: 2rem;
@@ -50,7 +50,7 @@ const TestimonialsContainer = styled.div`
 `;
 
 const TestimonialCard = styled.div`
-  background-color: var(--gray);
+  background-color: var(--white);
   border-radius: 10px;
   padding: 2rem;
   max-width: 300px;
@@ -67,7 +67,7 @@ const Quote = styled.p`
   font-size: 1.2rem;
   font-style: italic;
   margin-bottom: 1rem;
-  color: var(--white);
+  color: var(--DeepCharcoal);
 `;
 
 const Author = styled.p`

@@ -1,10 +1,11 @@
 import styled from 'styled-components';
+import logo from '../../../public/imagens/logo-dark.png';
 
 const Footer = () => {
   return (
     <FooterContainer>
       <FooterContent>
-        <Logo>Manutenção Predial</Logo>
+        <Logo  src={logo} alt="Logo do Projeto"/>
         <NavLinks>
           <NavLink href="#home">Home</NavLink>
           <NavLink href="#services">Serviços</NavLink>
@@ -39,10 +40,9 @@ const FooterContent = styled.div`
   margin: 0 auto;
 `;
 
-const Logo = styled.h1`
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-  color: var(--orange);
+const Logo = styled.img`
+      width: 200px;
+      height: auto;
 `;
 
 const NavLinks = styled.nav`

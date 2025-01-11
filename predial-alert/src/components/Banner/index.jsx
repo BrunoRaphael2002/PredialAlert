@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import Hero from '../../../public/imagens/predio.png';
 
 const Banner = () => {
   return (
@@ -11,7 +12,7 @@ const Banner = () => {
           <SecondaryButton href="#about">Saiba Mais</SecondaryButton>
         </CTAButtons>
       </HeroContent>
-      <HeroImage src="/path-to-your-image.jpg" alt="Ilustração de manutenção predial" />
+      <HeroImage src={Hero} alt="Ilustração de manutenção predial" />
     </HeroSection>
   );
 };
@@ -31,6 +32,7 @@ const HeroSection = styled.section`
   @media (max-width: 768px) {
     flex-direction: column;
     text-align: center;
+    justify-content: center; /* Centraliza o conteúdo verticalmente */
   }
 `;
 
@@ -39,6 +41,9 @@ const HeroContent = styled.div`
 
   @media (max-width: 768px) {
     max-width: 100%;
+    display: flex;
+    flex-direction: column; /* Garante alinhamento no eixo principal */
+    align-items: center; /* Centraliza o texto horizontalmente */
   }
 `;
 
@@ -55,7 +60,7 @@ const Title = styled.h1`
 const Subtitle = styled.p`
   font-size: 1.2rem;
   margin-bottom: 2rem;
-  color: var(--gray);
+  color: var(--darkgray);
 
   @media (max-width: 768px) {
     font-size: 1rem;
@@ -104,10 +109,11 @@ const SecondaryButton = styled.a`
 
 const HeroImage = styled.img`
   max-width: 40%;
+  object-fit: cover;
   height: auto;
+  display: block;
 
   @media (max-width: 768px) {
-    max-width: 80%;
-    margin-top: 2rem;
+    display: none;
   }
 `;

@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import Sindico from '../../../public/imagens/p2.png';
 
 const About = () => {
   return (
@@ -16,7 +17,7 @@ const About = () => {
         </Paragraph>
       </TextContent>
       <ImageContainer>
-        <AboutImage src="/path-to-your-about-image.jpg" alt="Ilustração de um síndico gerenciando manutenções" />
+        <AboutImage src={Sindico} alt="Ilustração de um síndico gerenciando manutenções" />
       </ImageContainer>
     </AboutSection>
   );
@@ -29,8 +30,7 @@ const AboutSection = styled.section`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 4rem 2rem;
-  background-color: var(--gray);
+  background-color: var(--white);
   color: var(--DeepCharcoal);
 
   @media (max-width: 768px) {
@@ -41,6 +41,7 @@ const AboutSection = styled.section`
 
 const TextContent = styled.div`
   max-width: 50%;
+  padding: 4rem 2rem;
 
   @media (max-width: 768px) {
     max-width: 100%;
@@ -72,8 +73,7 @@ const ImageContainer = styled.div`
   max-width: 40%;
 
   @media (max-width: 768px) {
-    max-width: 80%;
-    margin-top: 2rem;
+    display: none; /* Oculta a imagem no layout móvel */
   }
 `;
 
@@ -81,4 +81,5 @@ const AboutImage = styled.img`
   width: 100%;
   height: auto;
   border-radius: 10px;
+  display: block;
 `;
